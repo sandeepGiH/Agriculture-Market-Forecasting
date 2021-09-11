@@ -1,0 +1,531 @@
+,Price Date,District Name,Market Name,Commodity,Variety,Grade,Modal Price (Rs./Quintal)
+2,06 Oct 2020,Jalpaiguri,Alipurduar,Cabbage,Other,FAQ,3600.0
+3,05 Oct 2020,Jalpaiguri,Alipurduar,Cabbage,Other,FAQ,3200.0
+4,04 Oct 2020,Jalpaiguri,Alipurduar,Cabbage,Other,FAQ,2800.0
+5,03 Oct 2020,Jalpaiguri,Alipurduar,Cabbage,Other,FAQ,2600.0
+6,02 Oct 2020,Jalpaiguri,Alipurduar,Cabbage,Other,FAQ,2600.0
+7,06 Oct 2020,Burdwan,Durgapur,Cabbage,Other,FAQ,1900.0
+8,05 Oct 2020,Burdwan,Durgapur,Cabbage,Other,FAQ,1860.0
+9,04 Oct 2020,Burdwan,Durgapur,Cabbage,Other,FAQ,1850.0
+10,03 Oct 2020,Burdwan,Durgapur,Cabbage,Other,FAQ,1860.0
+11,02 Oct 2020,Burdwan,Durgapur,Cabbage,Other,FAQ,1900.0
+12,07 Oct 2020,Nadia,Kalyani,Cabbage,Other,FAQ,1600.0
+13,06 Oct 2020,Nadia,Kalyani,Cabbage,Other,FAQ,1600.0
+14,05 Oct 2020,Nadia,Kalyani,Cabbage,Other,FAQ,1600.0
+15,03 Oct 2020,Nadia,Kalyani,Cabbage,Other,FAQ,1600.0
+16,02 Oct 2020,Nadia,Kalyani,Cabbage,Other,FAQ,1600.0
+17,01 Oct 2020,Nadia,Kalyani,Cabbage,Other,FAQ,1600.0
+18,06 Oct 2020,Nadia,Ranaghat,Cabbage,Other,FAQ,3200.0
+19,05 Oct 2020,Nadia,Ranaghat,Cabbage,Other,FAQ,3200.0
+20,04 Oct 2020,Nadia,Ranaghat,Cabbage,Other,FAQ,3200.0
+21,03 Oct 2020,Nadia,Ranaghat,Cabbage,Other,FAQ,3200.0
+22,02 Oct 2020,Nadia,Ranaghat,Cabbage,Other,FAQ,3200.0
+23,01 Oct 2020,Nadia,Ranaghat,Cabbage,Other,FAQ,3200.0
+24,07 Oct 2020,Kolkata,Sealdah Koley Market,Cabbage,Other,FAQ,3600.0
+25,06 Oct 2020,Kolkata,Sealdah Koley Market,Cabbage,Other,FAQ,3600.0
+26,05 Oct 2020,Kolkata,Sealdah Koley Market,Cabbage,Other,FAQ,3600.0
+27,04 Oct 2020,Kolkata,Sealdah Koley Market,Cabbage,Other,FAQ,3600.0
+28,03 Oct 2020,Kolkata,Sealdah Koley Market,Cabbage,Other,FAQ,3600.0
+29,02 Oct 2020,Kolkata,Sealdah Koley Market,Cabbage,Other,FAQ,3400.0
+30,01 Oct 2020,Kolkata,Sealdah Koley Market,Cabbage,Other,FAQ,3400.0
+31,06 Oct 2020,Jalpaiguri,Alipurduar,Onion,Other,FAQ,4100.0
+32,05 Oct 2020,Jalpaiguri,Alipurduar,Onion,Other,FAQ,4100.0
+33,04 Oct 2020,Jalpaiguri,Alipurduar,Onion,Other,FAQ,4000.0
+34,03 Oct 2020,Jalpaiguri,Alipurduar,Onion,Other,FAQ,4000.0
+35,02 Oct 2020,Jalpaiguri,Alipurduar,Onion,Other,FAQ,4000.0
+36,06 Oct 2020,Burdwan,Asansol,Onion,Nasik,FAQ,3400.0
+37,05 Oct 2020,Burdwan,Asansol,Onion,Nasik,FAQ,3400.0
+38,04 Oct 2020,Burdwan,Asansol,Onion,Nasik,FAQ,3360.0
+39,03 Oct 2020,Burdwan,Asansol,Onion,Nasik,FAQ,3400.0
+40,02 Oct 2020,Burdwan,Asansol,Onion,Nasik,FAQ,3400.0
+41,07 Oct 2020,Puruliya,Balarampur,Onion,Other,FAQ,3200.0
+42,06 Oct 2020,Puruliya,Balarampur,Onion,Other,FAQ,3400.0
+43,05 Oct 2020,Puruliya,Balarampur,Onion,Other,FAQ,3400.0
+44,04 Oct 2020,Puruliya,Balarampur,Onion,Other,FAQ,3300.0
+45,03 Oct 2020,Puruliya,Balarampur,Onion,Other,FAQ,3500.0
+46,02 Oct 2020,Puruliya,Balarampur,Onion,Other,FAQ,3500.0
+47,01 Oct 2020,Puruliya,Balarampur,Onion,Other,FAQ,3000.0
+48,07 Oct 2020,Bankura,Bankura Sadar,Onion,Nasik,FAQ,3900.0
+49,06 Oct 2020,Bankura,Bankura Sadar,Onion,Nasik,FAQ,3900.0
+50,05 Oct 2020,Bankura,Bankura Sadar,Onion,Nasik,FAQ,4000.0
+51,01 Oct 2020,Bankura,Bankura Sadar,Onion,Nasik,FAQ,4000.0
+52,05 Oct 2020,Kolkata,Bara Bazar (Posta Bazar),Onion,Other,FAQ,2850.0
+53,03 Oct 2020,Kolkata,Bara Bazar (Posta Bazar),Onion,Other,FAQ,3800.0
+54,01 Oct 2020,Kolkata,Bara Bazar (Posta Bazar),Onion,Other,FAQ,3900.0
+55,06 Oct 2020,North 24 Parganas,Barasat,Onion,Other,FAQ,4200.0
+56,05 Oct 2020,North 24 Parganas,Barasat,Onion,Other,FAQ,4200.0
+57,04 Oct 2020,North 24 Parganas,Barasat,Onion,Other,FAQ,4400.0
+58,03 Oct 2020,North 24 Parganas,Barasat,Onion,Other,FAQ,4300.0
+59,02 Oct 2020,North 24 Parganas,Barasat,Onion,Other,FAQ,4300.0
+60,01 Oct 2020,North 24 Parganas,Barasat,Onion,Other,FAQ,4300.0
+61,07 Oct 2020,Jalpaiguri,Belacoba,Onion,Other,FAQ,3900.0
+62,06 Oct 2020,Jalpaiguri,Belacoba,Onion,Other,FAQ,3900.0
+63,05 Oct 2020,Jalpaiguri,Belacoba,Onion,Other,FAQ,3900.0
+64,04 Oct 2020,Jalpaiguri,Belacoba,Onion,Other,FAQ,3900.0
+65,03 Oct 2020,Jalpaiguri,Belacoba,Onion,Other,FAQ,3800.0
+66,02 Oct 2020,Jalpaiguri,Belacoba,Onion,Other,FAQ,3820.0
+67,01 Oct 2020,Jalpaiguri,Belacoba,Onion,Other,FAQ,3500.0
+68,05 Oct 2020,Birbhum,Birbhum,Onion,Other,FAQ,3800.0
+69,04 Oct 2020,Birbhum,Birbhum,Onion,Other,FAQ,3800.0
+70,03 Oct 2020,Birbhum,Birbhum,Onion,Nasik,FAQ,3900.0
+71,01 Oct 2020,Birbhum,Birbhum,Onion,Other,FAQ,3900.0
+72,07 Oct 2020,Bankura,Bishnupur(Bankura),Onion,Nasik,FAQ,4000.0
+73,06 Oct 2020,Bankura,Bishnupur(Bankura),Onion,Nasik,FAQ,4000.0
+74,05 Oct 2020,Bankura,Bishnupur(Bankura),Onion,Nasik,FAQ,3900.0
+75,04 Oct 2020,Bankura,Bishnupur(Bankura),Onion,Nasik,FAQ,4000.0
+76,03 Oct 2020,Bankura,Bishnupur(Bankura),Onion,Nasik,FAQ,4000.0
+77,02 Oct 2020,Bankura,Bishnupur(Bankura),Onion,Nasik,FAQ,4000.0
+78,01 Oct 2020,Bankura,Bishnupur(Bankura),Onion,Nasik,FAQ,4000.0
+79,05 Oct 2020,Birbhum,Bolpur,Onion,Onion,FAQ,4000.0
+80,03 Oct 2020,Birbhum,Bolpur,Onion,Onion,FAQ,4200.0
+81,02 Oct 2020,Birbhum,Bolpur,Onion,Onion,FAQ,3900.0
+82,05 Oct 2020,Burdwan,Burdwan,Onion,Nasik,FAQ,4000.0
+83,03 Oct 2020,Burdwan,Burdwan,Onion,Nasik,FAQ,4000.0
+84,01 Oct 2020,Burdwan,Burdwan,Onion,Nasik,FAQ,4000.0
+85,06 Oct 2020,Nadia,Chakdah,Onion,Other,FAQ,4400.0
+86,05 Oct 2020,Nadia,Chakdah,Onion,Other,FAQ,4400.0
+87,04 Oct 2020,Nadia,Chakdah,Onion,Other,FAQ,4400.0
+88,03 Oct 2020,Nadia,Chakdah,Onion,Other,FAQ,4400.0
+89,01 Oct 2020,Nadia,Chakdah,Onion,Other,FAQ,4400.0
+90,06 Oct 2020,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,FAQ,4100.0
+91,05 Oct 2020,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,FAQ,4100.0
+92,04 Oct 2020,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,FAQ,4100.0
+93,03 Oct 2020,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,FAQ,4500.0
+94,02 Oct 2020,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,FAQ,4400.0
+95,01 Oct 2020,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Onion,Red,FAQ,4200.0
+96,06 Oct 2020,Coochbehar,Dinhata,Onion,Onion,FAQ,3600.0
+97,05 Oct 2020,Coochbehar,Dinhata,Onion,Onion,FAQ,3550.0
+98,04 Oct 2020,Coochbehar,Dinhata,Onion,Onion,FAQ,3600.0
+99,03 Oct 2020,Coochbehar,Dinhata,Onion,Onion,FAQ,3500.0
+100,02 Oct 2020,Coochbehar,Dinhata,Onion,Onion,FAQ,3500.0
+101,01 Oct 2020,Coochbehar,Dinhata,Onion,Onion,FAQ,3500.0
+102,06 Oct 2020,Burdwan,Durgapur,Onion,Other,FAQ,3400.0
+103,05 Oct 2020,Burdwan,Durgapur,Onion,Other,FAQ,3500.0
+104,04 Oct 2020,Burdwan,Durgapur,Onion,Other,FAQ,2800.0
+105,03 Oct 2020,Burdwan,Durgapur,Onion,Other,FAQ,3600.0
+106,02 Oct 2020,Burdwan,Durgapur,Onion,Other,FAQ,3600.0
+107,05 Oct 2020,Medinipur(E),Egra/contai,Onion,Onion,FAQ,3200.0
+108,04 Oct 2020,Medinipur(E),Egra/contai,Onion,Onion,FAQ,3200.0
+109,02 Oct 2020,Medinipur(E),Egra/contai,Onion,Onion,FAQ,3500.0
+110,01 Oct 2020,Medinipur(E),Egra/contai,Onion,Onion,FAQ,3500.0
+111,06 Oct 2020,Malda,English Bazar,Onion,Other,FAQ,3300.0
+112,05 Oct 2020,Malda,English Bazar,Onion,Other,FAQ,3300.0
+113,04 Oct 2020,Malda,English Bazar,Onion,Other,FAQ,3300.0
+114,03 Oct 2020,Malda,English Bazar,Onion,Other,FAQ,3300.0
+115,02 Oct 2020,Malda,English Bazar,Onion,Other,FAQ,3300.0
+116,01 Oct 2020,Malda,English Bazar,Onion,Other,FAQ,3300.0
+117,06 Oct 2020,Malda,Gajol,Onion,Other,FAQ,3200.0
+118,05 Oct 2020,Malda,Gajol,Onion,Other,FAQ,3200.0
+119,04 Oct 2020,Malda,Gajol,Onion,Other,FAQ,3200.0
+120,03 Oct 2020,Malda,Gajol,Onion,Other,FAQ,3200.0
+121,02 Oct 2020,Malda,Gajol,Onion,Other,FAQ,3200.0
+122,01 Oct 2020,Malda,Gajol,Onion,Other,FAQ,3200.0
+123,07 Oct 2020,North 24 Parganas,Habra,Onion,Other,FAQ,4000.0
+124,06 Oct 2020,North 24 Parganas,Habra,Onion,Other,FAQ,4000.0
+125,05 Oct 2020,North 24 Parganas,Habra,Onion,Other,FAQ,4250.0
+126,04 Oct 2020,North 24 Parganas,Habra,Onion,Other,FAQ,4250.0
+127,03 Oct 2020,North 24 Parganas,Habra,Onion,Other,FAQ,4200.0
+128,02 Oct 2020,North 24 Parganas,Habra,Onion,Other,FAQ,4200.0
+129,01 Oct 2020,North 24 Parganas,Habra,Onion,Other,FAQ,4400.0
+130,07 Oct 2020,Jalpaiguri,Jalpaiguri Sadar,Onion,Other,FAQ,3900.0
+131,06 Oct 2020,Jalpaiguri,Jalpaiguri Sadar,Onion,Other,FAQ,3900.0
+132,05 Oct 2020,Jalpaiguri,Jalpaiguri Sadar,Onion,Other,FAQ,3900.0
+133,04 Oct 2020,Jalpaiguri,Jalpaiguri Sadar,Onion,Other,FAQ,3900.0
+134,03 Oct 2020,Jalpaiguri,Jalpaiguri Sadar,Onion,Other,FAQ,3800.0
+135,02 Oct 2020,Jalpaiguri,Jalpaiguri Sadar,Onion,Other,FAQ,3800.0
+136,01 Oct 2020,Jalpaiguri,Jalpaiguri Sadar,Onion,Other,FAQ,3500.0
+137,06 Oct 2020,Murshidabad,Jangipur,Onion,Red,FAQ,4095.0
+138,05 Oct 2020,Murshidabad,Jangipur,Onion,Red,FAQ,4170.0
+139,04 Oct 2020,Murshidabad,Jangipur,Onion,Red,FAQ,4175.0
+140,03 Oct 2020,Murshidabad,Jangipur,Onion,Red,FAQ,4230.0
+141,02 Oct 2020,Murshidabad,Jangipur,Onion,Red,FAQ,4200.0
+142,01 Oct 2020,Murshidabad,Jangipur,Onion,Red,FAQ,4200.0
+143,07 Oct 2020,Nadia,Kalyani,Onion,Onion,FAQ,4100.0
+144,06 Oct 2020,Nadia,Kalyani,Onion,Onion,FAQ,4200.0
+145,05 Oct 2020,Nadia,Kalyani,Onion,Onion,FAQ,4400.0
+146,03 Oct 2020,Nadia,Kalyani,Onion,Onion,FAQ,4300.0
+147,02 Oct 2020,Nadia,Kalyani,Onion,Onion,FAQ,4200.0
+148,01 Oct 2020,Nadia,Kalyani,Onion,Onion,FAQ,4000.0
+149,05 Oct 2020,Puruliya,Kasipur,Onion,Other,FAQ,3600.0
+150,04 Oct 2020,Puruliya,Kasipur,Onion,Other,FAQ,3700.0
+151,03 Oct 2020,Puruliya,Kasipur,Onion,Other,FAQ,3700.0
+152,02 Oct 2020,Puruliya,Kasipur,Onion,Other,FAQ,3700.0
+153,07 Oct 2020,Medinipur(W),Medinipur(West),Onion,Nasik,FAQ,4200.0
+154,05 Oct 2020,Medinipur(W),Medinipur(West),Onion,Nasik,FAQ,4300.0
+155,05 Oct 2020,Coochbehar,Mekhliganj,Onion,Other,FAQ,3600.0
+156,04 Oct 2020,Coochbehar,Mekhliganj,Onion,Other,FAQ,3600.0
+157,03 Oct 2020,Coochbehar,Mekhliganj,Onion,Other,FAQ,3500.0
+158,02 Oct 2020,Coochbehar,Mekhliganj,Onion,Other,FAQ,3600.0
+159,01 Oct 2020,Coochbehar,Mekhliganj,Onion,Other,FAQ,3500.0
+160,07 Oct 2020,Jalpaiguri,Moynaguri,Onion,Other,FAQ,3900.0
+161,06 Oct 2020,Jalpaiguri,Moynaguri,Onion,Other,FAQ,3900.0
+162,05 Oct 2020,Jalpaiguri,Moynaguri,Onion,Other,FAQ,3900.0
+163,04 Oct 2020,Jalpaiguri,Moynaguri,Onion,Other,FAQ,3900.0
+164,03 Oct 2020,Jalpaiguri,Moynaguri,Onion,Other,FAQ,3800.0
+165,02 Oct 2020,Jalpaiguri,Moynaguri,Onion,Other,FAQ,3800.0
+166,01 Oct 2020,Jalpaiguri,Moynaguri,Onion,Other,FAQ,3500.0
+167,07 Oct 2020,Nadia,Nadia,Onion,Nasik,FAQ,4200.0
+168,06 Oct 2020,Nadia,Nadia,Onion,Nasik,FAQ,4350.0
+169,05 Oct 2020,Nadia,Nadia,Onion,Nasik,FAQ,4200.0
+170,03 Oct 2020,Nadia,Nadia,Onion,Nasik,FAQ,4350.0
+171,02 Oct 2020,Nadia,Nadia,Onion,Nasik,FAQ,4250.0
+172,01 Oct 2020,Nadia,Nadia,Onion,Nasik,FAQ,4200.0
+173,05 Oct 2020,Puruliya,Purulia,Onion,Other,FAQ,3600.0
+174,07 Oct 2020,Howrah,Ramkrishanpur(Howrah),Onion,Other,FAQ,4000.0
+175,06 Oct 2020,Howrah,Ramkrishanpur(Howrah),Onion,Other,FAQ,4000.0
+176,05 Oct 2020,Howrah,Ramkrishanpur(Howrah),Onion,Other,FAQ,4500.0
+177,04 Oct 2020,Howrah,Ramkrishanpur(Howrah),Onion,Other,FAQ,4600.0
+178,03 Oct 2020,Howrah,Ramkrishanpur(Howrah),Onion,Other,FAQ,4500.0
+179,02 Oct 2020,Howrah,Ramkrishanpur(Howrah),Onion,Other,FAQ,4500.0
+180,06 Oct 2020,Birbhum,Rampurhat,Onion,Nasik,FAQ,3800.0
+181,05 Oct 2020,Birbhum,Rampurhat,Onion,Nasik,FAQ,3800.0
+182,04 Oct 2020,Birbhum,Rampurhat,Onion,Nasik,FAQ,3800.0
+183,03 Oct 2020,Birbhum,Rampurhat,Onion,Nasik,FAQ,3800.0
+184,02 Oct 2020,Birbhum,Rampurhat,Onion,Nasik,FAQ,3800.0
+185,01 Oct 2020,Birbhum,Rampurhat,Onion,Nasik,FAQ,3800.0
+186,06 Oct 2020,Nadia,Ranaghat,Onion,Other,FAQ,4300.0
+187,05 Oct 2020,Nadia,Ranaghat,Onion,Other,FAQ,4300.0
+188,04 Oct 2020,Nadia,Ranaghat,Onion,Other,FAQ,4300.0
+189,03 Oct 2020,Nadia,Ranaghat,Onion,Other,FAQ,4300.0
+190,02 Oct 2020,Nadia,Ranaghat,Onion,Other,FAQ,4300.0
+191,01 Oct 2020,Nadia,Ranaghat,Onion,Other,FAQ,4300.0
+192,06 Oct 2020,Birbhum,Sainthia,Onion,Nasik,FAQ,3600.0
+193,05 Oct 2020,Birbhum,Sainthia,Onion,Nasik,FAQ,3600.0
+194,04 Oct 2020,Birbhum,Sainthia,Onion,Nasik,FAQ,3600.0
+195,03 Oct 2020,Birbhum,Sainthia,Onion,Nasik,FAQ,3600.0
+196,02 Oct 2020,Birbhum,Sainthia,Onion,Nasik,FAQ,3600.0
+197,01 Oct 2020,Birbhum,Sainthia,Onion,Nasik,FAQ,3600.0
+198,05 Oct 2020,Malda,Samsi,Onion,Onion,FAQ,3200.0
+199,04 Oct 2020,Malda,Samsi,Onion,Onion,FAQ,3200.0
+200,03 Oct 2020,Malda,Samsi,Onion,Onion,FAQ,3200.0
+201,02 Oct 2020,Malda,Samsi,Onion,Onion,FAQ,3200.0
+202,01 Oct 2020,Malda,Samsi,Onion,Onion,FAQ,3200.0
+203,07 Oct 2020,Hooghly,Sheoraphuly,Onion,Nasik,FAQ,3700.0
+204,06 Oct 2020,Hooghly,Sheoraphuly,Onion,Nasik,FAQ,3700.0
+205,05 Oct 2020,Hooghly,Sheoraphuly,Onion,Nasik,FAQ,3700.0
+206,04 Oct 2020,Hooghly,Sheoraphuly,Onion,Nasik,FAQ,3800.0
+207,03 Oct 2020,Hooghly,Sheoraphuly,Onion,Nasik,FAQ,3400.0
+208,02 Oct 2020,Hooghly,Sheoraphuly,Onion,Nasik,FAQ,3700.0
+209,01 Oct 2020,Hooghly,Sheoraphuly,Onion,Nasik,FAQ,3900.0
+210,06 Oct 2020,Medinipur(E),Tamluk (Medinipur E),Onion,Other,FAQ,3800.0
+211,05 Oct 2020,Medinipur(E),Tamluk (Medinipur E),Onion,Other,FAQ,3800.0
+212,04 Oct 2020,Medinipur(E),Tamluk (Medinipur E),Onion,Other,FAQ,3800.0
+213,03 Oct 2020,Medinipur(E),Tamluk (Medinipur E),Onion,Other,FAQ,3600.0
+214,02 Oct 2020,Medinipur(E),Tamluk (Medinipur E),Onion,Other,FAQ,3600.0
+215,06 Oct 2020,Howrah,Uluberia,Onion,Other,FAQ,4000.0
+216,05 Oct 2020,Howrah,Uluberia,Onion,Other,FAQ,4000.0
+217,04 Oct 2020,Howrah,Uluberia,Onion,Other,FAQ,4000.0
+218,02 Oct 2020,Howrah,Uluberia,Onion,Other,FAQ,4000.0
+219,06 Oct 2020,Jalpaiguri,Alipurduar,Potato,Jyoti,FAQ,2900.0
+220,05 Oct 2020,Jalpaiguri,Alipurduar,Potato,Jyoti,FAQ,2900.0
+221,04 Oct 2020,Jalpaiguri,Alipurduar,Potato,Jyoti,FAQ,2900.0
+222,03 Oct 2020,Jalpaiguri,Alipurduar,Potato,Jyoti,FAQ,2900.0
+223,02 Oct 2020,Jalpaiguri,Alipurduar,Potato,Jyoti,FAQ,2900.0
+224,06 Oct 2020,Burdwan,Asansol,Potato,Jyoti,FAQ,2700.0
+225,05 Oct 2020,Burdwan,Asansol,Potato,Jyoti,FAQ,2760.0
+226,04 Oct 2020,Burdwan,Asansol,Potato,Jyoti,FAQ,2700.0
+227,03 Oct 2020,Burdwan,Asansol,Potato,Jyoti,FAQ,2700.0
+228,02 Oct 2020,Burdwan,Asansol,Potato,Jyoti,FAQ,2700.0
+229,07 Oct 2020,Puruliya,Balarampur,Potato,Other,FAQ,2790.0
+230,06 Oct 2020,Puruliya,Balarampur,Potato,Other,FAQ,2790.0
+231,05 Oct 2020,Puruliya,Balarampur,Potato,Other,FAQ,2790.0
+232,04 Oct 2020,Puruliya,Balarampur,Potato,Other,FAQ,2790.0
+233,03 Oct 2020,Puruliya,Balarampur,Potato,Other,FAQ,2750.0
+234,02 Oct 2020,Puruliya,Balarampur,Potato,Other,FAQ,2770.0
+235,01 Oct 2020,Puruliya,Balarampur,Potato,Other,FAQ,2700.0
+236,07 Oct 2020,Bankura,Bankura Sadar,Potato,Jyoti,FAQ,2700.0
+237,06 Oct 2020,Bankura,Bankura Sadar,Potato,Jyoti,FAQ,2700.0
+238,05 Oct 2020,Bankura,Bankura Sadar,Potato,Jyoti,FAQ,2700.0
+239,01 Oct 2020,Bankura,Bankura Sadar,Potato,Jyoti,FAQ,2680.0
+240,05 Oct 2020,Kolkata,Bara Bazar (Posta Bazar),Potato,Jyoti,FAQ,2700.0
+241,03 Oct 2020,Kolkata,Bara Bazar (Posta Bazar),Potato,Jyoti,FAQ,2840.0
+242,01 Oct 2020,Kolkata,Bara Bazar (Posta Bazar),Potato,Jyoti,FAQ,2800.0
+243,06 Oct 2020,North 24 Parganas,Barasat,Potato,Other,FAQ,2840.0
+244,05 Oct 2020,North 24 Parganas,Barasat,Potato,Other,FAQ,2840.0
+245,04 Oct 2020,North 24 Parganas,Barasat,Potato,Other,FAQ,2850.0
+246,03 Oct 2020,North 24 Parganas,Barasat,Potato,Other,FAQ,2840.0
+247,02 Oct 2020,North 24 Parganas,Barasat,Potato,Other,FAQ,2840.0
+248,01 Oct 2020,North 24 Parganas,Barasat,Potato,Other,FAQ,2850.0
+249,06 Oct 2020,Sounth 24 Parganas,Baruipur(Canning),Potato,Jyoti,FAQ,2900.0
+250,05 Oct 2020,Sounth 24 Parganas,Baruipur(Canning),Potato,Jyoti,FAQ,2920.0
+251,04 Oct 2020,Sounth 24 Parganas,Baruipur(Canning),Potato,Jyoti,FAQ,2900.0
+252,03 Oct 2020,Sounth 24 Parganas,Baruipur(Canning),Potato,Jyoti,FAQ,2940.0
+253,02 Oct 2020,Sounth 24 Parganas,Baruipur(Canning),Potato,Jyoti,FAQ,3300.0
+254,01 Oct 2020,Sounth 24 Parganas,Baruipur(Canning),Potato,Jyoti,FAQ,3300.0
+255,06 Oct 2020,Coochbehar,Baxirhat,Potato,Jyoti,FAQ,2850.0
+256,05 Oct 2020,Coochbehar,Baxirhat,Potato,Jyoti,FAQ,2850.0
+257,04 Oct 2020,Coochbehar,Baxirhat,Potato,Jyoti,FAQ,2850.0
+258,03 Oct 2020,Coochbehar,Baxirhat,Potato,Jyoti,FAQ,2850.0
+259,02 Oct 2020,Coochbehar,Baxirhat,Potato,Jyoti,FAQ,2850.0
+260,01 Oct 2020,Coochbehar,Baxirhat,Potato,Jyoti,FAQ,2850.0
+261,07 Oct 2020,Jalpaiguri,Belacoba,Potato,Jyoti,FAQ,3000.0
+262,06 Oct 2020,Jalpaiguri,Belacoba,Potato,Jyoti,FAQ,2900.0
+263,05 Oct 2020,Jalpaiguri,Belacoba,Potato,Jyoti,FAQ,3000.0
+264,04 Oct 2020,Jalpaiguri,Belacoba,Potato,Jyoti,FAQ,3000.0
+265,03 Oct 2020,Jalpaiguri,Belacoba,Potato,Jyoti,FAQ,3000.0
+266,02 Oct 2020,Jalpaiguri,Belacoba,Potato,Jyoti,FAQ,3000.0
+267,01 Oct 2020,Jalpaiguri,Belacoba,Potato,Jyoti,FAQ,3000.0
+268,06 Oct 2020,Murshidabad,Beldanga,Potato,Jyoti,FAQ,2880.0
+269,05 Oct 2020,Murshidabad,Beldanga,Potato,Jyoti,FAQ,2880.0
+270,04 Oct 2020,Murshidabad,Beldanga,Potato,Jyoti,FAQ,2880.0
+271,03 Oct 2020,Murshidabad,Beldanga,Potato,Jyoti,FAQ,2900.0
+272,02 Oct 2020,Murshidabad,Beldanga,Potato,Jyoti,FAQ,2900.0
+273,01 Oct 2020,Murshidabad,Beldanga,Potato,Jyoti,FAQ,2900.0
+274,05 Oct 2020,Birbhum,Birbhum,Potato,Jyoti,FAQ,2710.0
+275,04 Oct 2020,Birbhum,Birbhum,Potato,Jyoti,FAQ,2710.0
+276,03 Oct 2020,Birbhum,Birbhum,Potato,Jyoti,FAQ,2710.0
+277,02 Oct 2020,Birbhum,Birbhum,Potato,Jyoti,FAQ,2700.0
+278,07 Oct 2020,Bankura,Bishnupur(Bankura),Potato,Jyoti,FAQ,2700.0
+279,06 Oct 2020,Bankura,Bishnupur(Bankura),Potato,Jyoti,FAQ,2700.0
+280,05 Oct 2020,Bankura,Bishnupur(Bankura),Potato,Jyoti,FAQ,2700.0
+281,04 Oct 2020,Bankura,Bishnupur(Bankura),Potato,Jyoti,FAQ,2700.0
+282,03 Oct 2020,Bankura,Bishnupur(Bankura),Potato,Jyoti,FAQ,2700.0
+283,02 Oct 2020,Bankura,Bishnupur(Bankura),Potato,Jyoti,FAQ,2700.0
+284,01 Oct 2020,Bankura,Bishnupur(Bankura),Potato,Jyoti,FAQ,2700.0
+285,05 Oct 2020,Birbhum,Bolpur,Potato,Jyoti,FAQ,2720.0
+286,04 Oct 2020,Birbhum,Bolpur,Potato,Jyoti,FAQ,2750.0
+287,03 Oct 2020,Birbhum,Bolpur,Potato,Jyoti,FAQ,2750.0
+288,02 Oct 2020,Birbhum,Bolpur,Potato,Jyoti,FAQ,2760.0
+289,01 Oct 2020,Birbhum,Bolpur,Potato,Jyoti,FAQ,2750.0
+290,05 Oct 2020,Burdwan,Burdwan,Potato,Jyoti,FAQ,2820.0
+291,03 Oct 2020,Burdwan,Burdwan,Potato,Jyoti,FAQ,2820.0
+292,01 Oct 2020,Burdwan,Burdwan,Potato,Jyoti,FAQ,2820.0
+293,06 Oct 2020,Nadia,Chakdah,Potato,Jyoti,FAQ,2850.0
+294,05 Oct 2020,Nadia,Chakdah,Potato,Jyoti,FAQ,2850.0
+295,04 Oct 2020,Nadia,Chakdah,Potato,Jyoti,FAQ,2850.0
+296,03 Oct 2020,Nadia,Chakdah,Potato,Jyoti,FAQ,2860.0
+297,01 Oct 2020,Nadia,Chakdah,Potato,Jyoti,FAQ,2860.0
+298,07 Oct 2020,Hooghly,Champadanga,Potato,Jyoti,FAQ,2780.0
+299,06 Oct 2020,Hooghly,Champadanga,Potato,Jyoti,FAQ,2780.0
+300,05 Oct 2020,Hooghly,Champadanga,Potato,Jyoti,FAQ,2780.0
+301,04 Oct 2020,Hooghly,Champadanga,Potato,Jyoti,FAQ,2780.0
+302,03 Oct 2020,Hooghly,Champadanga,Potato,Jyoti,FAQ,2780.0
+303,02 Oct 2020,Hooghly,Champadanga,Potato,Jyoti,FAQ,2780.0
+304,01 Oct 2020,Hooghly,Champadanga,Potato,Jyoti,FAQ,2780.0
+305,07 Oct 2020,Coochbehar,Coochbehar,Potato,Jyoti,FAQ,2850.0
+306,06 Oct 2020,Coochbehar,Coochbehar,Potato,Jyoti,FAQ,2850.0
+307,05 Oct 2020,Coochbehar,Coochbehar,Potato,Jyoti,FAQ,2850.0
+308,04 Oct 2020,Coochbehar,Coochbehar,Potato,Jyoti,FAQ,2850.0
+309,03 Oct 2020,Coochbehar,Coochbehar,Potato,Jyoti,FAQ,2850.0
+310,02 Oct 2020,Coochbehar,Coochbehar,Potato,Jyoti,FAQ,2850.0
+311,01 Oct 2020,Coochbehar,Coochbehar,Potato,Jyoti,FAQ,2850.0
+312,06 Oct 2020,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Potato,Jyoti,FAQ,2890.0
+313,05 Oct 2020,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Potato,Jyoti,FAQ,2900.0
+314,04 Oct 2020,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Potato,Jyoti,FAQ,2900.0
+315,03 Oct 2020,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Potato,Jyoti,FAQ,2950.0
+316,02 Oct 2020,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Potato,Jyoti,FAQ,2980.0
+317,01 Oct 2020,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),Potato,Jyoti,FAQ,3000.0
+318,06 Oct 2020,Coochbehar,Dinhata,Potato,Jyoti,FAQ,2850.0
+319,05 Oct 2020,Coochbehar,Dinhata,Potato,Jyoti,FAQ,2850.0
+320,04 Oct 2020,Coochbehar,Dinhata,Potato,Jyoti,FAQ,2850.0
+321,03 Oct 2020,Coochbehar,Dinhata,Potato,Jyoti,FAQ,2850.0
+322,02 Oct 2020,Coochbehar,Dinhata,Potato,Jyoti,FAQ,2850.0
+323,01 Oct 2020,Coochbehar,Dinhata,Potato,Jyoti,FAQ,2850.0
+324,06 Oct 2020,Burdwan,Durgapur,Potato,Jyoti,FAQ,2700.0
+325,06 Oct 2020,Burdwan,Durgapur,Potato,Other,FAQ,2600.0
+326,05 Oct 2020,Burdwan,Durgapur,Potato,Jyoti,FAQ,2700.0
+327,05 Oct 2020,Burdwan,Durgapur,Potato,Other,FAQ,2600.0
+328,04 Oct 2020,Burdwan,Durgapur,Potato,Jyoti,FAQ,2760.0
+329,04 Oct 2020,Burdwan,Durgapur,Potato,Other,FAQ,2620.0
+330,03 Oct 2020,Burdwan,Durgapur,Potato,Jyoti,FAQ,2760.0
+331,03 Oct 2020,Burdwan,Durgapur,Potato,Other,FAQ,2600.0
+332,02 Oct 2020,Burdwan,Durgapur,Potato,Jyoti,FAQ,2800.0
+333,02 Oct 2020,Burdwan,Durgapur,Potato,Other,FAQ,2600.0
+334,06 Oct 2020,Malda,English Bazar,Potato,Jyoti,FAQ,2920.0
+335,05 Oct 2020,Malda,English Bazar,Potato,Jyoti,FAQ,2920.0
+336,04 Oct 2020,Malda,English Bazar,Potato,Jyoti,FAQ,2940.0
+337,03 Oct 2020,Malda,English Bazar,Potato,Jyoti,FAQ,2940.0
+338,02 Oct 2020,Malda,English Bazar,Potato,Jyoti,FAQ,2920.0
+339,01 Oct 2020,Malda,English Bazar,Potato,Jyoti,FAQ,2940.0
+340,06 Oct 2020,Malda,Gajol,Potato,Jyoti,FAQ,2900.0
+341,06 Oct 2020,Malda,Gajol,Potato,Local,FAQ,2700.0
+342,05 Oct 2020,Malda,Gajol,Potato,Jyoti,FAQ,2900.0
+343,05 Oct 2020,Malda,Gajol,Potato,Local,FAQ,2700.0
+344,04 Oct 2020,Malda,Gajol,Potato,Jyoti,FAQ,2900.0
+345,04 Oct 2020,Malda,Gajol,Potato,Local,FAQ,2700.0
+346,03 Oct 2020,Malda,Gajol,Potato,Jyoti,FAQ,2920.0
+347,03 Oct 2020,Malda,Gajol,Potato,Local,FAQ,2700.0
+348,02 Oct 2020,Malda,Gajol,Potato,Jyoti,FAQ,2900.0
+349,02 Oct 2020,Malda,Gajol,Potato,Local,FAQ,2700.0
+350,01 Oct 2020,Malda,Gajol,Potato,Jyoti,FAQ,2900.0
+351,01 Oct 2020,Malda,Gajol,Potato,Local,FAQ,2700.0
+352,07 Oct 2020,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Potato,Local,FAQ,2780.0
+353,06 Oct 2020,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Potato,Local,FAQ,2780.0
+354,05 Oct 2020,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Potato,Local,FAQ,2780.0
+355,04 Oct 2020,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Potato,Local,FAQ,2780.0
+356,03 Oct 2020,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Potato,Local,FAQ,2780.0
+357,02 Oct 2020,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Potato,Local,FAQ,2780.0
+358,05 Oct 2020,Medinipur(W),Garbeta(Medinipur),Potato,Jyoti,FAQ,2670.0
+359,07 Oct 2020,North 24 Parganas,Habra,Potato,Other,FAQ,2840.0
+360,06 Oct 2020,North 24 Parganas,Habra,Potato,Other,FAQ,2840.0
+361,05 Oct 2020,North 24 Parganas,Habra,Potato,Other,FAQ,2840.0
+362,04 Oct 2020,North 24 Parganas,Habra,Potato,Other,FAQ,2840.0
+363,03 Oct 2020,North 24 Parganas,Habra,Potato,Other,FAQ,2840.0
+364,02 Oct 2020,North 24 Parganas,Habra,Potato,Other,FAQ,2840.0
+365,01 Oct 2020,North 24 Parganas,Habra,Potato,Other,FAQ,2840.0
+366,05 Oct 2020,Coochbehar,Haldibari,Potato,Jyoti,FAQ,2850.0
+367,04 Oct 2020,Coochbehar,Haldibari,Potato,Jyoti,FAQ,2850.0
+368,03 Oct 2020,Coochbehar,Haldibari,Potato,Jyoti,FAQ,2850.0
+369,02 Oct 2020,Coochbehar,Haldibari,Potato,Jyoti,FAQ,2850.0
+370,01 Oct 2020,Coochbehar,Haldibari,Potato,Jyoti,FAQ,2800.0
+371,07 Oct 2020,Bankura,Indus(Bankura Sadar),Potato,Jyoti,FAQ,2700.0
+372,06 Oct 2020,Bankura,Indus(Bankura Sadar),Potato,Jyoti,FAQ,2700.0
+373,05 Oct 2020,Bankura,Indus(Bankura Sadar),Potato,Jyoti,FAQ,2700.0
+374,01 Oct 2020,Bankura,Indus(Bankura Sadar),Potato,Jyoti,FAQ,2680.0
+375,07 Oct 2020,Uttar Dinajpur,Islampur,Potato,Jyoti,FAQ,2850.0
+376,06 Oct 2020,Uttar Dinajpur,Islampur,Potato,Jyoti,FAQ,2850.0
+377,05 Oct 2020,Uttar Dinajpur,Islampur,Potato,Jyoti,FAQ,2850.0
+378,04 Oct 2020,Uttar Dinajpur,Islampur,Potato,Jyoti,FAQ,2900.0
+379,03 Oct 2020,Uttar Dinajpur,Islampur,Potato,Jyoti,FAQ,2850.0
+380,07 Oct 2020,Jalpaiguri,Jalpaiguri Sadar,Potato,Jyoti,FAQ,3000.0
+381,06 Oct 2020,Jalpaiguri,Jalpaiguri Sadar,Potato,Jyoti,FAQ,3000.0
+382,05 Oct 2020,Jalpaiguri,Jalpaiguri Sadar,Potato,Jyoti,FAQ,3000.0
+383,04 Oct 2020,Jalpaiguri,Jalpaiguri Sadar,Potato,Jyoti,FAQ,3000.0
+384,03 Oct 2020,Jalpaiguri,Jalpaiguri Sadar,Potato,Jyoti,FAQ,3000.0
+385,02 Oct 2020,Jalpaiguri,Jalpaiguri Sadar,Potato,Jyoti,FAQ,3000.0
+386,01 Oct 2020,Jalpaiguri,Jalpaiguri Sadar,Potato,Jyoti,FAQ,3000.0
+387,06 Oct 2020,Murshidabad,Jangipur,Potato,Jyoti,FAQ,2795.0
+388,05 Oct 2020,Murshidabad,Jangipur,Potato,Jyoti,FAQ,2790.0
+389,04 Oct 2020,Murshidabad,Jangipur,Potato,Jyoti,FAQ,2790.0
+390,03 Oct 2020,Murshidabad,Jangipur,Potato,Jyoti,FAQ,2820.0
+391,02 Oct 2020,Murshidabad,Jangipur,Potato,Jyoti,FAQ,2820.0
+392,01 Oct 2020,Murshidabad,Jangipur,Potato,Jyoti,FAQ,2820.0
+393,07 Oct 2020,Medinipur(W),Jhargram,Potato,Jyoti,FAQ,2740.0
+394,05 Oct 2020,Medinipur(W),Jhargram,Potato,Jyoti,FAQ,2800.0
+395,03 Oct 2020,Medinipur(W),Jhargram,Potato,Jyoti,FAQ,2900.0
+396,02 Oct 2020,Medinipur(W),Jhargram,Potato,Jyoti,FAQ,2800.0
+397,01 Oct 2020,Medinipur(W),Jhargram,Potato,Jyoti,FAQ,2900.0
+398,06 Oct 2020,Murshidabad,Jiaganj,Potato,Jyoti,FAQ,2650.0
+399,05 Oct 2020,Murshidabad,Jiaganj,Potato,Jyoti,FAQ,2650.0
+400,04 Oct 2020,Murshidabad,Jiaganj,Potato,Jyoti,FAQ,2650.0
+401,07 Oct 2020,Hooghly,Kalipur,Potato,Jyoti,FAQ,2720.0
+402,06 Oct 2020,Hooghly,Kalipur,Potato,Jyoti,FAQ,2720.0
+403,05 Oct 2020,Hooghly,Kalipur,Potato,Jyoti,FAQ,2720.0
+404,04 Oct 2020,Hooghly,Kalipur,Potato,Jyoti,FAQ,2720.0
+405,03 Oct 2020,Hooghly,Kalipur,Potato,Jyoti,FAQ,2720.0
+406,02 Oct 2020,Hooghly,Kalipur,Potato,Jyoti,FAQ,2720.0
+407,01 Oct 2020,Hooghly,Kalipur,Potato,Jyoti,FAQ,2720.0
+408,06 Oct 2020,Burdwan,Kalna,Potato,Jyoti,FAQ,2770.0
+409,05 Oct 2020,Burdwan,Kalna,Potato,Jyoti,FAQ,2780.0
+410,03 Oct 2020,Burdwan,Kalna,Potato,Jyoti,FAQ,2780.0
+411,02 Oct 2020,Burdwan,Kalna,Potato,Jyoti,FAQ,2780.0
+412,01 Oct 2020,Burdwan,Kalna,Potato,Jyoti,FAQ,2780.0
+413,07 Oct 2020,Nadia,Kalyani,Potato,Jyoti,FAQ,2850.0
+414,06 Oct 2020,Nadia,Kalyani,Potato,Jyoti,FAQ,2850.0
+415,05 Oct 2020,Nadia,Kalyani,Potato,Jyoti,FAQ,2870.0
+416,03 Oct 2020,Nadia,Kalyani,Potato,Jyoti,FAQ,2850.0
+417,02 Oct 2020,Nadia,Kalyani,Potato,Jyoti,FAQ,2860.0
+418,01 Oct 2020,Nadia,Kalyani,Potato,Jyoti,FAQ,2860.0
+419,06 Oct 2020,Murshidabad,Kandi,Potato,Jyoti,FAQ,2750.0
+420,05 Oct 2020,Murshidabad,Kandi,Potato,Jyoti,FAQ,2750.0
+421,04 Oct 2020,Murshidabad,Kandi,Potato,Jyoti,FAQ,2800.0
+422,05 Oct 2020,Puruliya,Kasipur,Potato,Jyoti,FAQ,2670.0
+423,04 Oct 2020,Puruliya,Kasipur,Potato,Jyoti,FAQ,2680.0
+424,03 Oct 2020,Puruliya,Kasipur,Potato,Jyoti,FAQ,2680.0
+425,02 Oct 2020,Puruliya,Kasipur,Potato,Jyoti,FAQ,2680.0
+426,07 Oct 2020,Bankura,Khatra,Potato,Jyoti,FAQ,2700.0
+427,06 Oct 2020,Bankura,Khatra,Potato,Jyoti,FAQ,2700.0
+428,05 Oct 2020,Bankura,Khatra,Potato,Jyoti,FAQ,2700.0
+429,04 Oct 2020,Bankura,Khatra,Potato,Jyoti,FAQ,2700.0
+430,03 Oct 2020,Bankura,Khatra,Potato,Jyoti,FAQ,2700.0
+431,02 Oct 2020,Bankura,Khatra,Potato,Jyoti,FAQ,2700.0
+432,01 Oct 2020,Bankura,Khatra,Potato,Jyoti,FAQ,2700.0
+433,06 Oct 2020,Medinipur(E),Kolaghat,Potato,Jyoti,FAQ,2900.0
+434,05 Oct 2020,Medinipur(E),Kolaghat,Potato,Jyoti,FAQ,2900.0
+435,04 Oct 2020,Medinipur(E),Kolaghat,Potato,Jyoti,FAQ,2900.0
+436,03 Oct 2020,Medinipur(E),Kolaghat,Potato,Jyoti,FAQ,2900.0
+437,02 Oct 2020,Medinipur(E),Kolaghat,Potato,Jyoti,FAQ,2900.0
+438,07 Oct 2020,Coochbehar,Mathabhanga,Potato,Jyoti,FAQ,2900.0
+439,06 Oct 2020,Coochbehar,Mathabhanga,Potato,Jyoti,FAQ,2900.0
+440,05 Oct 2020,Coochbehar,Mathabhanga,Potato,Jyoti,FAQ,2900.0
+441,04 Oct 2020,Coochbehar,Mathabhanga,Potato,Jyoti,FAQ,2900.0
+442,03 Oct 2020,Coochbehar,Mathabhanga,Potato,Jyoti,FAQ,2900.0
+443,07 Oct 2020,Medinipur(W),Medinipur(West),Potato,Jyoti,FAQ,2650.0
+444,05 Oct 2020,Medinipur(W),Medinipur(West),Potato,Jyoti,FAQ,2670.0
+445,05 Oct 2020,Coochbehar,Mekhliganj,Potato,Jyoti,FAQ,2850.0
+446,04 Oct 2020,Coochbehar,Mekhliganj,Potato,Jyoti,FAQ,2800.0
+447,03 Oct 2020,Coochbehar,Mekhliganj,Potato,Jyoti,FAQ,2800.0
+448,02 Oct 2020,Coochbehar,Mekhliganj,Potato,Jyoti,FAQ,2825.0
+449,01 Oct 2020,Coochbehar,Mekhliganj,Potato,Jyoti,FAQ,2800.0
+450,01 Oct 2020,Burdwan,Memari,Potato,Jyoti,FAQ,2800.0
+451,07 Oct 2020,Jalpaiguri,Moynaguri,Potato,Jyoti,FAQ,2900.0
+452,06 Oct 2020,Jalpaiguri,Moynaguri,Potato,Jyoti,FAQ,2900.0
+453,05 Oct 2020,Jalpaiguri,Moynaguri,Potato,Jyoti,FAQ,3000.0
+454,04 Oct 2020,Jalpaiguri,Moynaguri,Potato,Jyoti,FAQ,3000.0
+455,03 Oct 2020,Jalpaiguri,Moynaguri,Potato,Jyoti,FAQ,3000.0
+456,02 Oct 2020,Jalpaiguri,Moynaguri,Potato,Jyoti,FAQ,3000.0
+457,01 Oct 2020,Jalpaiguri,Moynaguri,Potato,Jyoti,FAQ,3000.0
+458,07 Oct 2020,Nadia,Nadia,Potato,Other,FAQ,2850.0
+459,06 Oct 2020,Nadia,Nadia,Potato,Other,FAQ,2850.0
+460,05 Oct 2020,Nadia,Nadia,Potato,Other,FAQ,2870.0
+461,03 Oct 2020,Nadia,Nadia,Potato,Other,FAQ,2860.0
+462,02 Oct 2020,Nadia,Nadia,Potato,Other,FAQ,2860.0
+463,01 Oct 2020,Nadia,Nadia,Potato,Other,FAQ,2860.0
+464,07 Oct 2020,Hooghly,Pandua,Potato,Other,FAQ,2680.0
+465,06 Oct 2020,Hooghly,Pandua,Potato,Other,FAQ,2680.0
+466,05 Oct 2020,Hooghly,Pandua,Potato,Other,FAQ,2680.0
+467,04 Oct 2020,Hooghly,Pandua,Potato,Other,FAQ,2680.0
+468,03 Oct 2020,Hooghly,Pandua,Potato,Other,FAQ,2680.0
+469,02 Oct 2020,Hooghly,Pandua,Potato,Other,FAQ,2700.0
+470,01 Oct 2020,Hooghly,Pandua,Potato,Other,FAQ,2700.0
+471,05 Oct 2020,Coochbehar,Pundibari,Potato,Jyoti,FAQ,2850.0
+472,04 Oct 2020,Coochbehar,Pundibari,Potato,Jyoti,FAQ,2850.0
+473,03 Oct 2020,Coochbehar,Pundibari,Potato,Jyoti,FAQ,2800.0
+474,02 Oct 2020,Coochbehar,Pundibari,Potato,Jyoti,FAQ,2850.0
+475,01 Oct 2020,Coochbehar,Pundibari,Potato,Jyoti,FAQ,2850.0
+476,05 Oct 2020,Puruliya,Purulia,Potato,Jyoti,FAQ,2680.0
+477,07 Oct 2020,Howrah,Ramkrishanpur(Howrah),Potato,Jyoti,FAQ,2860.0
+478,06 Oct 2020,Howrah,Ramkrishanpur(Howrah),Potato,Jyoti,FAQ,2860.0
+479,05 Oct 2020,Howrah,Ramkrishanpur(Howrah),Potato,Jyoti,FAQ,2860.0
+480,04 Oct 2020,Howrah,Ramkrishanpur(Howrah),Potato,Jyoti,FAQ,2860.0
+481,03 Oct 2020,Howrah,Ramkrishanpur(Howrah),Potato,Jyoti,FAQ,2860.0
+482,02 Oct 2020,Howrah,Ramkrishanpur(Howrah),Potato,Jyoti,FAQ,2860.0
+483,06 Oct 2020,Birbhum,Rampurhat,Potato,Jyoti,FAQ,2710.0
+484,05 Oct 2020,Birbhum,Rampurhat,Potato,Jyoti,FAQ,2700.0
+485,04 Oct 2020,Birbhum,Rampurhat,Potato,Jyoti,FAQ,2700.0
+486,03 Oct 2020,Birbhum,Rampurhat,Potato,Jyoti,FAQ,2700.0
+487,02 Oct 2020,Birbhum,Rampurhat,Potato,Jyoti,FAQ,2700.0
+488,01 Oct 2020,Birbhum,Rampurhat,Potato,Jyoti,FAQ,2700.0
+489,06 Oct 2020,Nadia,Ranaghat,Potato,Jyoti,FAQ,2920.0
+490,05 Oct 2020,Nadia,Ranaghat,Potato,Jyoti,FAQ,2920.0
+491,04 Oct 2020,Nadia,Ranaghat,Potato,Jyoti,FAQ,2920.0
+492,03 Oct 2020,Nadia,Ranaghat,Potato,Jyoti,FAQ,2920.0
+493,02 Oct 2020,Nadia,Ranaghat,Potato,Jyoti,FAQ,2920.0
+494,01 Oct 2020,Nadia,Ranaghat,Potato,Jyoti,FAQ,2920.0
+495,06 Oct 2020,Birbhum,Sainthia,Potato,Jyoti,FAQ,2700.0
+496,05 Oct 2020,Birbhum,Sainthia,Potato,Jyoti,FAQ,2700.0
+497,04 Oct 2020,Birbhum,Sainthia,Potato,Jyoti,FAQ,2700.0
+498,03 Oct 2020,Birbhum,Sainthia,Potato,Jyoti,FAQ,2700.0
+499,02 Oct 2020,Birbhum,Sainthia,Potato,Jyoti,FAQ,2700.0
+500,01 Oct 2020,Birbhum,Sainthia,Potato,Jyoti,FAQ,2700.0
+501,05 Oct 2020,Malda,Samsi,Potato,Jyoti,FAQ,3150.0
+502,05 Oct 2020,Malda,Samsi,Potato,Local,FAQ,2750.0
+503,04 Oct 2020,Malda,Samsi,Potato,Jyoti,FAQ,3150.0
+504,04 Oct 2020,Malda,Samsi,Potato,Local,FAQ,2700.0
+505,03 Oct 2020,Malda,Samsi,Potato,Jyoti,FAQ,3150.0
+506,03 Oct 2020,Malda,Samsi,Potato,Local,FAQ,2700.0
+507,02 Oct 2020,Malda,Samsi,Potato,Jyoti,FAQ,3150.0
+508,02 Oct 2020,Malda,Samsi,Potato,Local,FAQ,2750.0
+509,01 Oct 2020,Malda,Samsi,Potato,Jyoti,FAQ,3160.0
+510,01 Oct 2020,Malda,Samsi,Potato,Local,FAQ,2850.0
+511,07 Oct 2020,Hooghly,Sheoraphuly,Potato,Jyoti,FAQ,2800.0
+512,06 Oct 2020,Hooghly,Sheoraphuly,Potato,Jyoti,FAQ,2800.0
+513,05 Oct 2020,Hooghly,Sheoraphuly,Potato,Jyoti,FAQ,2800.0
+514,04 Oct 2020,Hooghly,Sheoraphuly,Potato,Jyoti,FAQ,2800.0
+515,03 Oct 2020,Hooghly,Sheoraphuly,Potato,Jyoti,FAQ,2810.0
+516,02 Oct 2020,Hooghly,Sheoraphuly,Potato,Jyoti,FAQ,2810.0
+517,01 Oct 2020,Hooghly,Sheoraphuly,Potato,Jyoti,FAQ,2820.0
+518,06 Oct 2020,Medinipur(E),Tamluk (Medinipur E),Potato,Jyoti,FAQ,2900.0
+519,05 Oct 2020,Medinipur(E),Tamluk (Medinipur E),Potato,Jyoti,FAQ,2900.0
+520,04 Oct 2020,Medinipur(E),Tamluk (Medinipur E),Potato,Jyoti,FAQ,2900.0
+521,03 Oct 2020,Medinipur(E),Tamluk (Medinipur E),Potato,Jyoti,FAQ,2900.0
+522,02 Oct 2020,Medinipur(E),Tamluk (Medinipur E),Potato,Jyoti,FAQ,2900.0
+523,05 Oct 2020,Coochbehar,Toofanganj,Potato,Jyoti,FAQ,2850.0
+524,04 Oct 2020,Coochbehar,Toofanganj,Potato,Jyoti,FAQ,2850.0
+525,03 Oct 2020,Coochbehar,Toofanganj,Potato,Jyoti,FAQ,2850.0
+526,02 Oct 2020,Coochbehar,Toofanganj,Potato,Jyoti,FAQ,2850.0
+527,01 Oct 2020,Coochbehar,Toofanganj,Potato,Jyoti,FAQ,2850.0
+528,06 Oct 2020,Howrah,Uluberia,Potato,Jyoti,FAQ,2840.0
+529,05 Oct 2020,Howrah,Uluberia,Potato,Jyoti,FAQ,2840.0
+530,04 Oct 2020,Howrah,Uluberia,Potato,Jyoti,FAQ,2840.0
+531,02 Oct 2020,Howrah,Uluberia,Potato,Jyoti,FAQ,2840.0

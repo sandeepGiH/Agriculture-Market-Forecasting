@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html >
+<div style="display: flex; justify-content: center;">
+<img src='https://innodatatics.com/images/excelr-logo-small.png'  width=350 height=100 align = 'center'>
+
+</div>
+  <meta charset="UTF-8">
+
+<script>
+var d = new Date();
+document.getElementById("demo").innerHTML = d;
+</script>
+
+<title> Agricultural Market Price Analysis </title>
+  <style>
+  .column {float: right; width: 100%;}
+  label { display: block;
+           width: 100px;
+           margin-bottom: 1px; 
+           font-size: 13px;
+           font-weight: bold;}
+  </style>
+</head>
+<body background="https://images.hdqwalls.com/download/dry-wheat-farm-qm-1920x1080.jpg"></br>
+<h1 align="Center"> Agricultural Market Price Analysis </h1>
+<br>
+<br>
+<br>
+<br>  
+ <br>
+ 
+   <div class="column" align = "center">
+		<form action="{{ url_for('scrape')}}"method="post">
+			<button style="background-color:#003366;color:white;height:40px;width:250px" align ="center" type="submit" class="btn btn-primary btn-block btn-large"> Update Data</button>
+        </form>
+	</div>
+<br>
+<br>
+<br>
+<br>
+     <div class="column" align = "center">
+		<form action="{{ url_for('report')}}"method="post">
+			<button style="background-color:#003366;color:white;height:40px;width:250px" align ="center" type="submit" class="btn btn-primary btn-block btn-large">Market Wise Prediction</button>
+        </form>
+	</div>
+ 
+ </body>
+</html>

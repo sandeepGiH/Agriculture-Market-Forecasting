@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<link rel="stylesheet" type=text/css href="{{ url_for('static', filename='style.css') }}">
+	<title>Forecasting</title>
+</head>
+<!--style="background-image: url(https://miro.medium.com/max/1250/1*oZdMVD-arRoauCTAi5V0lA.jpeg); background-repeat: no-repeat; background-size: cover;"-->
+<body background="https://images.hdqwalls.com/download/dry-wheat-farm-qm-1920x1080.jpg">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+		<a class="navbar-brand" href="#">Innodatics</a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+		  <span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarNavDropdown">
+			<ul class="navbar-nav">
+				<li class="nav-item active">
+					<a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+				</li>
+				<li class="nav-item active">
+					<a class="nav-link" href="#">About<span class="sr-only">(current)</span></a>
+				</li>
+			   
+			</ul>  
+		</div>
+	</nav>
+<div style="display: flex; justify-content: center;">
+		<img src='https://innodatatics.com/images/excelr-logo-small.png'  width=350 height=100 align = 'center'>
+</div></br>
+<div>
+<h1 align = 'center' style=" color: black; font-weight: bold"> Agricultural Market Price Analysis </h1>
+</div>
+
+<form action="predict" method="post">
+<div class="type" align='center'>
+<label style="color: black;font-weight: bold;"> Select District:</label>
+<select name="District" id="District" data-target="commodity" class="district selectFilter">
+<option>--select--</option>
+<option value="Kolkata" data-ref="4">Kolkata</option>
+</select>
+		
+<label style="color: black;font-weight: bold;"> Select Commodity:</label>
+<select name="Commodity" id="Commodity" data-target="market" class="commodity selectFilter" style="width:160px">
+<option>--select--</option>
+<option value="Potato" data-ref="1" data-belong="4" >Potato</option>
+<option value="Onion"   data-ref="2" data-belong="4">Onion</option>
+<option value="Cabbage" data-ref="3" data-belong="4">Cabbage</option>
+</select>
+
+<label style="color: black;font-weight: bold;"> Select Market:</label>
+<select name="Market" id="Market" data-target="thirdList" class="market selectFilter">
+<option>--select--</option>
+<option value="Bara Bazar (Posta Bazar)" data-ref="A" data-belong="1" >Bara Bazar</option>
+<option value="Sealdah Koley Market" data-ref="B" data-belong="2">Sealdah Koley Market</option>
+</select>
+
+<label style="color: black;font-weight: bold;"> Prediction:</label>
+<select name="Days" id="Days">
+<option>--select--</option>
+<option value="7">Weekly</option>
+<option value="30">Monthly</option>
+</select>
+
+<div class="btn">
+<input type="submit" name="btnGo" value="Submit" id="btnGo" class="btn btn-dark" >
+</div>
+</div>
+</form>
+	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+	<script src="http://code.jquery.com/jquery.min.js"></script>
+	<script src="selectFilter.min.js"></script>
+</body>
+<br>
+<br>
+<br>
+</html>
